@@ -10,4 +10,6 @@ Use streamlit run with whatever path is relevant for the program in terminal to 
 
 Reach out to aweiss@greenhillsschool.org if there is any questions
 
+This runs best when 1 meter = 1 pixel. I would reccomend using a pixel art program/website to create mazes. If made into a png, make sure the inside of the maze is colored in white.
+
 By Avi Weiss, 2023
